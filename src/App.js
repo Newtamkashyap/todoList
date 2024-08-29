@@ -19,7 +19,7 @@ function App() {
   }
 
   return (
-    <div className='main-container'>
+    <div className='main-container body'>
       <div className='center-container'>
         <TodoInput addList={addList}/>
        <h1>Todo</h1>
